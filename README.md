@@ -1,7 +1,24 @@
 # Python for Data Analysis Workshop
-## Using World Development Indicators Dataset
 
----
+## Course Format & Schedule
+
+- Hands-on workshop
+- One hour per session
+- Two sessions per week
+- Total eight session
+
+## Prerequisites
+
+Familiarity with the following is a plus:
+
+  - Posit Workbench
+  - VS Code
+  - Linux OS
+  - Markdown
+  - Python
+  - Jupyter Notebooks
+
+If you are not familiar with the above, no worries. We will cover them in the first session.
 
 ## Course Objectives
 
@@ -9,16 +26,18 @@ By the end of this 8-session workshop, participants will be able to:
 
 1. **Import and export data** using pandas from CSV files, and save results to multiple formats (CSV, Excel, JSON).
 2. **Inspect datasets** systematically — understanding shape, data types, distributions, and unique values — to quickly orient themselves to any new dataset.
-3. **Assess data quality** by identifying missing values, duplicates, outliers, and inconsistencies using pandas diagnostics.
+3. **Assess data quality** by identifying missing values, duplicates, outliers, and inconsistencies.
 4. **Clean real-world data** by handling nulls, correcting data types, standardizing string fields, and removing or imputing problematic records.
-5. **Transform data** through subsetting (filtering rows and selecting columns), feature engineering, and renaming/reorganizing structures.
+5. **Transform data** through subsetting (filtering rows and selecting columns) and renaming existing columns, createing derived variables.
 6. **Reshape data** between wide and long (tidy) formats using `melt`, `pivot`, and `pivot_table` to support different analytical needs.
-7. **Aggregate and summarize data** using `groupby`, multi-level aggregations, and ranking operations to extract meaningful insights.
-8. **Create interactive visualizations** with Plotly Express — including line charts, bar charts, scatter plots, choropleth maps, and faceted views — to communicate findings clearly.
+7. **Aggregate and summarize data** using `groupby` to aggregate and aggregate functions to summarize data within each group.
+8. **Create interactive visualizations** with Plotly Express to create interactive data visualizations to explore data and communicate findings.
 
 ---
 
 ## Dataset: World Development Indicators
+
+We will use this one dataset through out.
 
 **File:** `World_Dev_Indicators.csv`
 
@@ -44,11 +63,6 @@ By the end of this 8-session workshop, participants will be able to:
 | `Life expectancy at birth, total (years)` | float | Average life expectancy |
 | `Population, total` | int | Total population |
 | `Suicide mortality rate (per 100,000 population)` | float | Suicide rate per 100k people |
-
-**Data Quality Notes (discovered during preparation):**
-- GDP and GDP per capita have ~352 missing values
-- Life expectancy and population each have ~217 missing values
-- Suicide mortality rate has ~1,380 missing values (most prevalent missing field)
 
 ---
 
