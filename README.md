@@ -8,7 +8,7 @@ TBD
 
 - Hands-on workshop
 - Use Posit Workbench and VS Code
-- Cover both Python coding and GAO best practices 
+- Cover both Python coding and GAO practices 
 - One hour per session, two sessions per week, total eight sessions
 
 ## Prerequisites
@@ -79,23 +79,24 @@ By the end of this 8-session workshop, participants will be able to:
 *Key functions:* `px.line()`, `px.bar()`, `px.scatter()`, `px.box()`, `px.choropleth()`, `px.facet_*`
 
 ---
+
 ## Additional Information
 
-1. Development Environment
+### Development Environment
 
   - Posit Workbench
   - VS Code
 
 If you don't have access to Posit Workbench, please contact anf_onboarding@gao.gov and Posit_Admins@gao.gov.
 
-2. Python Packages to be Used
+### Python Packages to be Used
 
  - pandas
  - plotly
  - openpyxl
  - nbformat
 
-3. Dataset to be Used
+### Dataset to be Used
 
 We will use The World Bank's World Development Indicators (WDI) dataset through out.
 
