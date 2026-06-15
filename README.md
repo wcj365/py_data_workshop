@@ -31,7 +31,7 @@ If you are not familiar with the above, no worries. We will cover them in the fi
 
 By the end of this 8-session workshop, participants will be able to:
 
-1. **Setup projects and follow GAO best practices**
+1. **Setup data analysis projects** Ssetting up the development environment, organizing project structure, and follow GAO best practices.
 2. **Import/Export and Inspect datasets** understanding shape, data types, distributions, and unique values — to quickly orient themselves to any new dataset.
 3. **Assess data quality** by identifying missing values, duplicates, outliers, and inconsistencies.
 4. **Clean real-world data** by handling nulls, correcting data types, standardizing string fields, and removing or imputing problematic records.
