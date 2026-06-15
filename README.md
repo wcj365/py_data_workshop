@@ -34,16 +34,13 @@ If you are not familiar with the above, no worries. We will cover them in the fi
 By the end of this 8-session workshop, participants will be able to:
 
 1. **Setup projects and follow GAO best practices**
-
-2. **Import and Inspect datasets**
-   - using pandas from CSV files, and save results to multiple formats (CSV, Excel, JSON).
-4. systematically — understanding shape, data types, distributions, and unique values — to quickly orient themselves to any new dataset.
-5. **Assess data quality** by identifying missing values, duplicates, outliers, and inconsistencies.
-6. **Clean real-world data** by handling nulls, correcting data types, standardizing string fields, and removing or imputing problematic records.
-7. **Transform data** through subsetting (filtering rows and selecting columns) and renaming existing columns, createing derived variables.
-8. **Reshape data** between wide and long (tidy) formats using `melt`, `pivot`, and `pivot_table` to support different analytical needs.
-9. **Aggregate and summarize data** using `groupby` to aggregate and aggregate functions to summarize data within each group.
-10. **Create interactive visualizations** with Plotly Express to create interactive data visualizations to explore data and communicate findings.
+2. **Import/Export and Inspect datasets** understanding shape, data types, distributions, and unique values — to quickly orient themselves to any new dataset.
+3. **Assess data quality** by identifying missing values, duplicates, outliers, and inconsistencies.
+4. **Clean real-world data** by handling nulls, correcting data types, standardizing string fields, and removing or imputing problematic records.
+5. **Transform data** through subsetting (filtering rows and selecting columns) and renaming existing columns, createing derived variables.
+6. **Reshape data** between wide and long (tidy) formats using `melt`, `pivot`, and `pivot_table` to support different analytical needs.
+7. **Aggregate and summarize data** using `groupby` and aggregate functions to aggregate and summarize data.
+8. **Create interactive visualizations** with Plotly Express to help explore data and communicate findings visually and interactively.
 
 ---
 
@@ -56,9 +53,8 @@ By the end of this 8-session workshop, participants will be able to:
 
 ## Dataset to be Used
 
-The World Bank's World Development Indicators (WDI)
 
-We will use this dataset through out.
+We will use The World Bank's World Development Indicators (WDI) dataset through out.
 
 **File:** `World_Dev_Indicators.csv`
 
