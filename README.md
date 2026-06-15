@@ -100,7 +100,7 @@ If you don't have access to Posit Workbench, please contact anf_onboarding@gao.g
 
 We will use The World Bank's World Development Indicators (WDI) dataset through out.
 
-**File:** `World_Dev_Indicators.csv`
+**File:** [`World_Dev_Indicators.csv`](World_Dev_Indicators.csv)
 
 | Property | Value |
 |----------|-------|
