@@ -7,7 +7,7 @@ TBD
 ## Course Format & Schedule
 
 - Hands-on workshop
-- Cover both Python coding and GAO practices 
+- Cover both Python coding and GAO best practices 
 - One hour per session
 - Two sessions per week
 - Total eight sessions
@@ -17,11 +17,11 @@ TBD
   - Posit Workbench
   - VS Code
 
-If you don't have access to Posit Workbench, please 
+If you don't have access to Posit Workbench, please contact anf_onboarding@gao.gov and Posit_Admins@gao.gov.
 
 ## Prerequisites
 
-Familiarity with the following is a plus:
+Familiarity with the following is prefered but not required:
 
   - Markdown
   - Python
