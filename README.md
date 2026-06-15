@@ -106,21 +106,9 @@ We will use this one dataset through out.
 
 ---
 
-## Prerequisites
-
-- Basic Python knowledge (variables, lists, loops, functions)
-- Jupyter Notebook or JupyterLab installed
-- Libraries: `pandas`, `plotly`, `openpyxl`
-
-**Install all dependencies:**
-```bash
-pip install pandas plotly openpyxl nbformat
-```
-
----
-
 ## Workshop Notes
 
+- Requiured Python packages: pandas plotly openpyxl nbformat
 - Each session is approximately **60 minutes**
 - Notebooks include explanatory markdown, code cells with comments, and exercises at the end
 - All sessions use the **same dataset** — skills build progressively
