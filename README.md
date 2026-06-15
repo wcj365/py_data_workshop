@@ -98,7 +98,7 @@ If you don't have access to Posit Workbench, please contact anf_onboarding@gao.g
 
 ### Dataset to be Used
 
-We will use the World Bank's [World Development Indicators (WDI) dataset] (World_Dev_Indicators.csv) through out.
+We will use the World Bank's [World Development Indicators (WDI) dataset](World_Dev_Indicators.csv) for all sessions.
 
 | Property | Value |
 |----------|-------|
