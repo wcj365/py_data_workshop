@@ -8,9 +8,7 @@ TBD
 
 - Hands-on workshop
 - Cover both Python coding and GAO best practices 
-- One hour per session
-- Two sessions per week
-- Total eight sessions
+- One hour per session, two sessions per week, total eight sessions
 
 ## Development Environment
 
