@@ -1,11 +1,15 @@
 # Python for Data Analysis Workshop
 
+## CPE and Job Code
+
+TBD
+
 ## Course Format & Schedule
 
 - Hands-on workshop
 - One hour per session
 - Two sessions per week
-- Total eight session
+- Total eight sessions
 
 ## Prerequisites
 
@@ -82,10 +86,10 @@ We will use this one dataset through out.
 
 ### Session 4 — Data Cleaning
 *Topics:* Handling missing values (drop/fill/impute), fixing data types, standardizing strings, removing duplicates  
-*Key functions:* `df.dropna()`, `df.fillna()`, `df.astype()`, `str.strip()`, `str.title()`
+*Key functions:* `df.dropna()`, `df.fillna()`, `df.astype()`, `str.strip()`
 
 ### Session 5 — Data Transformation: Subsetting & Feature Engineering
-*Topics:* Filtering rows, selecting columns, boolean conditions, creating new columns, `apply()` and lambda  
+*Topics:* Filtering rows, selecting columns, boolean conditions, creating new columns, `apply()` and lambda function  
 *Key functions:* `df.loc[]`, `df.iloc[]`, Boolean indexing, `df['new_col'] = ...`, `df.apply()`
 
 ### Session 6 — Data Reshaping
