@@ -7,6 +7,7 @@ TBD
 ## Course Format & Schedule
 
 - Hands-on workshop
+- Use Posit Workbench and VS Code
 - Cover both Python coding and GAO best practices 
 - One hour per session, two sessions per week, total eight sessions
 
