@@ -11,13 +11,6 @@ TBD
 - Cover both Python coding and GAO best practices 
 - One hour per session, two sessions per week, total eight sessions
 
-## Development Environment
-
-  - Posit Workbench
-  - VS Code
-
-If you don't have access to Posit Workbench, please contact anf_onboarding@gao.gov and Posit_Admins@gao.gov.
-
 ## Prerequisites
 
 Familiarity with the following is prefered but not required:
@@ -40,47 +33,6 @@ By the end of this 8-session workshop, participants will be able to:
 6. **Reshape data** between wide and long (tidy) formats using `melt`, `pivot`, and `pivot_table` to support different analytical needs.
 7. **Aggregate and summarize data** using `groupby` and aggregate functions to aggregate and summarize data.
 8. **Create data visualization** with Plotly Express to help explore data and communicate findings visually and interactively.
-
----
-
-## Python Packages to be Used
-
- - pandas
- - plotly
- - openpyxl
- - nbformat
-
-## Dataset to be Used
-
-
-We will use The World Bank's World Development Indicators (WDI) dataset through out.
-
-**File:** `World_Dev_Indicators.csv`
-
-| Property | Value |
-|----------|-------|
-| Rows | 4,340 |
-| Columns | 11 |
-| Countries | 217 |
-| Years | 2006–2025 |
-
-**Columns:**
-
-| Column | Type | Description |
-|--------|------|-------------|
-| `Year` | int | Year of observation |
-| `Country` | str | Country name |
-| `Country Code` | str | ISO 3-letter country code |
-| `Region` | str | World Bank region (7 regions) |
-| `Income Group` | str | World Bank income classification |
-| `Lending Type` | str | World Bank lending category |
-| `GDP (current US$)` | float | Gross domestic product in USD |
-| `GDP per capita (current US$)` | float | GDP divided by population |
-| `Life expectancy at birth, total (years)` | float | Average life expectancy |
-| `Population, total` | int | Total population |
-| `Suicide mortality rate (per 100,000 population)` | float | Suicide rate per 100k people |
-
----
 
 ## Course Outline
 
@@ -127,6 +79,51 @@ We will use The World Bank's World Development Indicators (WDI) dataset through 
 *Key functions:* `px.line()`, `px.bar()`, `px.scatter()`, `px.box()`, `px.choropleth()`, `px.facet_*`
 
 ---
+
+## Development Environment
+
+  - Posit Workbench
+  - VS Code
+
+If you don't have access to Posit Workbench, please contact anf_onboarding@gao.gov and Posit_Admins@gao.gov.
+
+## Python Packages to be Used
+
+ - pandas
+ - plotly
+ - openpyxl
+ - nbformat
+
+## Dataset to be Used
+
+
+We will use The World Bank's World Development Indicators (WDI) dataset through out.
+
+**File:** `World_Dev_Indicators.csv`
+
+| Property | Value |
+|----------|-------|
+| Rows | 4,340 |
+| Columns | 11 |
+| Countries | 217 |
+| Years | 2006–2025 |
+
+**Columns:**
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `Year` | int | Year of observation |
+| `Country` | str | Country name |
+| `Country Code` | str | ISO 3-letter country code |
+| `Region` | str | World Bank region (7 regions) |
+| `Income Group` | str | World Bank income classification |
+| `Lending Type` | str | World Bank lending category |
+| `GDP (current US$)` | float | Gross domestic product in USD |
+| `GDP per capita (current US$)` | float | GDP divided by population |
+| `Life expectancy at birth, total (years)` | float | Average life expectancy |
+| `Population, total` | int | Total population |
+| `Suicide mortality rate (per 100,000 population)` | float | Suicide rate per 100k people |
+
 
 
 
