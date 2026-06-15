@@ -7,7 +7,6 @@ TBD
 ## Course Format & Schedule
 
 - Hands-on workshop
-- Use Posit Workbench and VS Code
 - Cover both Python coding and GAO practices 
 - One hour per session, two sessions per week, total eight sessions
 
@@ -19,7 +18,7 @@ Familiarity with the following is prefered but not required:
   - Python
   - Jupyter Notebooks
 
-If you are not familiar with the above, no worries. We will cover them in the first session.
+If you are not familiar with the above, no worries. We will have a refresher in the first session.
 
 ## Course Objectives
 
