@@ -39,8 +39,7 @@ By the end of this 8-session workshop, participants will be able to:
 ### Session 1 — Getting Started: Development Environment and GAO Standards
 
 - Posit Workbench and VS Code IDE
-- Project structure and required packages
-- GAO audit requirements and best practices
+- Project structure and GAO best practices
 - Jupyter Notebooks, Markdown, and Python Refresher
 
 ### Session 2 — Data Import/Export and Understanding
