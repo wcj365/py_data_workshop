@@ -79,23 +79,23 @@ By the end of this 8-session workshop, participants will be able to:
 *Key functions:* `px.line()`, `px.bar()`, `px.scatter()`, `px.box()`, `px.choropleth()`, `px.facet_*`
 
 ---
+## Additional Information
 
-## Development Environment
+1. Development Environment
 
   - Posit Workbench
   - VS Code
 
 If you don't have access to Posit Workbench, please contact anf_onboarding@gao.gov and Posit_Admins@gao.gov.
 
-## Python Packages to be Used
+2. Python Packages to be Used
 
  - pandas
  - plotly
  - openpyxl
  - nbformat
 
-## Dataset to be Used
-
+3. Dataset to be Used
 
 We will use The World Bank's World Development Indicators (WDI) dataset through out.
 
